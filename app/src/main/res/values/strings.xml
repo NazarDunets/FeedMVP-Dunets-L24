@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FeedMVP-Dunets-L24</string>
+
+    <string name="error_posts_not_loaded">Failed to load posts</string>
+    <string name="error_mock">Mock error</string>
+
+    <string name="warning_flag">With Warning!</string>
+    <string name="author">By user %s</string>
+    <string name="user_banned">User %s is banned</string>
+
+</resources>
